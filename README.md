@@ -1,2 +1,3 @@
 ### Web sitesinin görünümü aşağıdaki gibidir
-![website](./img/website-img.png)
+![website](./img/webpage.png)
+[patika.dev](https://www.patika.dev/)
